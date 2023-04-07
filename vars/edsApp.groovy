@@ -1,4 +1,4 @@
-def call(Spring repoURL){
+def call(String repoURL){
 pipeline {
        agent any
        tools {
